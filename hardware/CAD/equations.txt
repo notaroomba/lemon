@@ -1,0 +1,4 @@
+﻿"Battery_Case_Width"= 40cm
+"Battery_Case_Length"= 25cm
+"Battery_Case_Thickness" = 6mm
+"Battery_Case_Height"= 10cm
