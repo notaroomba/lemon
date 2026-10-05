@@ -99,3 +99,48 @@ so now I have some things to do
   - ESP32:
     - WiFi, BLE, OTA
 - Make frame with battery dock
+
+# 10/5/2026 2 PM - CADING
+
+_Time spent: 5h_
+
+Here I started cadding the battery cells adn also the case that they were going to be held in. I struggled alot with creating a reference plane for the cells to correctly align them but yknow what Im just going to copy paste lol.
+
+![alt text](./assets/battery_cad.png)
+
+
+After a bit I finallly got this and no i didnt learn how to make a reference plane but its alr lol
+
+![alt text](./assets/image-1.png)
+
+it ended up like this at the end 
+
+![alt text](./assets/image-3.png)
+
+I was then designing the case when I thought about protecting the batteries so I want to use Polyethylene Foam to help the batteries with their impacts
+
+https://www.mcmaster.com/85925K255/ (w or wout adhesive backing and https://www.amazon.com/EVA-Foam-Cosplay-Density-Foamory/dp/B08YXYJW7R) this is poron foam and its flame retardent and helps with impacts and also if the battery somehow ruptures then this will help stop the spread of the flames.
+
+I will also wrap the batteries in heat shrink but first
+- https://www.aliexpress.us/item/3256806218355747.html (21700 hollow) battery edge stickers that help pad the raised pad
+-  https://www.aliexpress.us/item/3256809788252031.html (fish sheet 180mm) that will shield the exposed ends of the battery pack / nickel thing
+
+https://www.aliexpress.us/item/3256812284982503.html (Width 300mm Dia190mm 1m)
+as this will be the layer of protection from the outside.
+
+I then started adding the stuff to the case. It took me a littl ebit becuase I am still learnign Solidworks and also CAD in general but I had to first get the dimensions of the strips from mcmaster car
+
+![alt text](./assets/image-4.png)
+
+then I had to make the actual part in solidworks and also "cut" the strips out to the right lengths that I would need
+
+![alt text](./assets/image-5.png)
+
+I also learned how you can add in some global variables into solidworks and I have been using them so that is good.
+
+![alt text](./assets/image-6.png)
+
+
+Then i did a thing and added those strips to the case and then used a linear repeat thingy to add them. I still have to add the ones in the walls but aside from that its basically done.
+
+![alt text](./assets/image-7.png)
